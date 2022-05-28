@@ -1,0 +1,45 @@
+[
+    {
+        "name": "El Nada Hospital",
+        "location": "Zayed",
+        "map": "https://www.google.com/maps/place/%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A+%D8%A7%D9%84%D9%86%D8%AF%D9%8A%E2%80%AD/@30.0674706,30.9345512,19z/data=!4m13!1m7!3m6!1s0x0:0xd76eca03fbfc4656!2s8G2G3W8M%2BXPQ!3b1!8m2!3d30.0674625!4d30.9343594!3m4!1s0x145859b633a64cd5:0x282e410bd93b9546!8m2!3d30.0672805!4d30.9342917"
+    },
+    {
+        "name": "El Pike Hospital",
+        "location": "Haram",
+        "map" : "https://www.google.com/maps/place/Hi+Care+Clinc/@30.0253387,31.0005236,15z/data=!4m8!1m2!2m1!1sStreet+33,+Sheikh+Zayed+City!3m4!1s0x0:0xa954bad8d5636c3f!8m2!3d30.0324189!4d31.001689"
+    },
+    {
+        "name": "El Simba Hospital",
+        "location": "Shubra"
+    },
+    {
+        "name": "El 5awl Hospital",
+        "location": "Alex"
+    },
+    {
+        "name": "El Hossam Hospital",
+        "location": "3ala bta3y"
+    },
+    {
+        "name": "El foking Hospital",
+        "location": "Zayed"
+    },
+    {
+        "name": "El Fagar Hospital",
+        "location": "El Marg"
+    },
+    {
+        "name": "El Sharmota Hospital",
+        "location": "Hossam's Home"
+    },
+    {
+        "name": "El Monday Hospital",
+        "location": "Monib"
+    },
+    {
+        "name": "El Sabt Hospital",
+        "location": "6 Oct"
+    }
+]
+
