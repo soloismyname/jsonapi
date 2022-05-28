@@ -1,0 +1,22 @@
+[
+    {
+        "name": "El Nada Hospital",
+        "location": "Zayed"
+    },
+
+    {
+        "name": "El Pike Hospital",
+        "location": "Haram"
+    },
+    
+    {
+        "name": "El Simba Hospital",
+        "location": "Shubra"
+    },
+
+    {
+        "name": "El 5awl Hospital",
+        "location": "Alex"
+    }
+]
+
